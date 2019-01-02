@@ -10,7 +10,7 @@ constructor(){
             description:'',
             city:'',
             location:'',
-            phone:'',
+            phone:'',     
             gender:'',
             rent:'',
             numberofRoommates:'',
